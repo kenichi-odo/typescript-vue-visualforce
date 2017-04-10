@@ -1,1 +1,1 @@
-# typescript_vue_visualforce
+# typescript-vue-visualforce

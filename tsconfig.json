@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "moduleResolution": "node",
+    "types": [
+      "vue-typescript-import-dts"
+    ],
+    "allowSyntheticDefaultImports": true
+  }
+}

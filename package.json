@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^2.2.2",
+    "vue": "^2.2.6",
+    "vue-loader": "^11.3.4",
+    "vue-template-compiler": "^2.2.6",
+    "vue-ts-loader": "0.0.3",
+    "vue-typescript-import-dts": "^3.0.1",
+    "webpack": "^2.3.3"
+  },
+  "scripts": {
+    "build-VueTest": "webpack --env.resource_name=VueTest",
+    "watch-VueTest": "webpack -w --env.resource_name=VueTest"
+  }
+}
