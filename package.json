@@ -6,7 +6,8 @@
     "vue-template-compiler": "^2.2.6",
     "vue-ts-loader": "0.0.3",
     "vue-typescript-import-dts": "^3.0.1",
-    "webpack": "^2.3.3"
+    "webpack": "^2.3.3",
+    "webpack-sfdc-deploy-plugin": "https://github.com/kenichi-odo/webpack-sfdc-deploy-plugin/tarball/0.1"
   },
   "scripts": {
     "build-VueTest": "webpack --env.resource_name=VueTest",

@@ -1,5 +1,5 @@
 var Webpack = require('webpack')
-var SfdcDeployPlugin = require('./webpack-sfdc-deploy-plugin')
+var SfdcDeployPlugin = require('webpack-sfdc-deploy-plugin')
 
 module.exports = function (env_) {
   return {
